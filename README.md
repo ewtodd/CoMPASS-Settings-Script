@@ -19,6 +19,3 @@ python MUSIC-getCoMPASS.py settings.xml --channels 3 11
 # Show channels 3 and 11 from board 0 only
 python MUSIC-getCoMPASS.py settings.xml --board 0 --channels 3 11
 ```
-
-
-```
