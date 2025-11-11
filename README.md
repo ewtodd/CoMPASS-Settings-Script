@@ -1,4 +1,4 @@
-These scripts extracts human-readable settings from CoMPASS settings.xml files, prints them, and returns a pandas dataframe containing them. There are now two versions because the scenarios were significantly different. 
+These scripts extract human-readable settings from CoMPASS settings.xml files, print them, and return a pandas dataframe containing them. There are now two versions because the scenarios were significantly different. 
 
 ANSG Usage: 
 ```
